@@ -1,0 +1,4 @@
+print ('Olá, seja bem vindo')
+c = float (input ("Quantos graus em celsius voce gostaria de converter para Fahrenheit?"))
+f= (9 * c / 5) + 32
+print ("O resultado de {} em Fahrenheit é de {} ".format (c,f))
