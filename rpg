@@ -1,0 +1,36 @@
+print ('Iniciando RPG.')
+print ('Iniciando RPG..')
+print ('Iniciando RPG...')
+print ('Iniciando RPG.')
+print ('Iniciando RPG..')
+print ('Iniciando RPG...')
+print ('Iniciando RPG.')
+print ('Iniciando RPG..')
+print ('Iniciando RPG...')
+print ('Iniciando RPG.')
+print ('Iniciando RPG..')
+print ('Iniciando RPG...')
+print ('Iniciando RPG.')
+print ('Iniciando RPG..')
+print ('Iniciando RPG...')
+print ('Iniciando RPG.')
+print ('Iniciando RPG..')
+print ('Iniciando RPG...')
+print ('Iniciando RPG.')
+print ('Iniciando RPG..')
+print ('Iniciando RPG...')
+
+ready = str (input ('Digite [R] para começar: '))
+if ready == ('R'):
+    print ('Você chegou na florestar')
+else:
+    print ('Game Encerrado')
+decisao = str (input ('Você deseja ir para a Esquerda [E] ou para a Direita? [D]'))
+if decisao == ('E'):
+    print ('Você achou toras de madeira')
+
+else:
+    print ('Enfrente o lobo')
+    print ('Após derrotar o lobo, você abriu caminho e obteve toras de madeira')
+print ('Seguindo até o acampamento')
+print ('Você está seguro')
